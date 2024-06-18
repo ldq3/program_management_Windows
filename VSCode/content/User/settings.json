@@ -1,0 +1,17 @@
+{
+    "editor.minimap.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoGuessEncoding": true,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on", // 文本自动换行显示
+    "task.allowAutomaticTasks": "on", // 允许自动任务的执行
+    
+    "workspaceSidebar.rootFolders": [
+        {
+            "path": "C:\\Users\\34635\\AppData\\Roaming\\Code\\User\\workspaces"
+        }
+    ],
+    
+    "remote.autoForwardPortsSource": "hybrid" // I don't know.
+}

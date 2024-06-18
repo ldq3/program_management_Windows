@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "D:/private/cloned_project/reference"
+		},
+		{
+			"path": "D:/private/cloned_project/FATE_tutorial"
+		},
+		{
+			"path": "D:/private/temp/FATE-1.11.1"
+		}
+	],
+	"settings": {
+		"terminal.integrated.profiles.windows": {
+
+			"PowerShell": {
+				"source": "PowerShell",
+				"icon": "terminal-powershell"
+			},
+			"Command Prompt": {
+				"path": [
+					"${env:windir}\\Sysnative\\cmd.exe",
+					"${env:windir}\\System32\\cmd.exe"
+				],
+				"args": [
+				],
+				"icon": "terminal-cmd"
+			},
+			"Git Bash": {
+				"source": "Git Bash"
+			}
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"donjayamanne.python-extension-pack",
+			"ms-toolsai.jupyter",
+		]
+	}
+}

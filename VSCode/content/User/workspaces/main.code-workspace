@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../private/my_project/program_management_Windows"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ms-vscode-remote.vscode-remote-extensionpack",
+			"ms-azuretools.vscode-docker",
+
+			"sketchbuch.vsc-workspace-sidebar",
+			"mhutchie.git-graph",
+			"donjayamanne.git-extension-pack",
+
+			"ms-vscode.powershell",
+		],
+	}
+}
